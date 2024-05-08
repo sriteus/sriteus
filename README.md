@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @sriteus
+- 👀 I’m interested in Full Stack Development with TS/React
+- 🌱 I’m currently learning TS/React
+- 📫 email: sarthakgarg4s@icloud.com
+- 😄 Pronouns: ...
+- ⚡ Checkout my projects
