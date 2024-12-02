@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sarthak Garg
-- 👀 I’m interested in Full Stack Development with TS/React
+- 👀 TS/React
 - 📫 email: sarthakgarg4s@icloud.com
